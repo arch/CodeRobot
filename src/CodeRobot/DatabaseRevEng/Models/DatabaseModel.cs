@@ -1,8 +1,8 @@
-﻿// Copyright (c) yingtingxu(徐应庭). All rights reserved.
+﻿// Copyright (c) rigofunc (xuyingting). All rights reserved.
 
 using System.Collections.Generic;
 
-namespace Arch.CodeRobot
+namespace CodeRobot.Database.RevEng
 {
     /// <summary>
     /// Represents the database model.

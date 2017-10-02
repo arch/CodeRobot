@@ -1,6 +1,6 @@
-﻿// Copyright (c) yingtingxu(徐应庭). All rights reserved
+﻿// Copyright (c) rigofunc (xuyingting). All rights reserved
 
-namespace Arch.CodeRobot
+namespace CodeRobot.Database.RevEng
 {
     public class IndexColumnModel
     {
