@@ -4,7 +4,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     public class TableSelectionSet
     {

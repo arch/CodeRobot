@@ -9,7 +9,7 @@ using System.Text;
 using Microsoft.CodeAnalysis;
 using Microsoft.CodeAnalysis.CSharp;
 
-namespace CodeRobot.Generator
+namespace Tools.Generator
 {
     /// <summary>
     /// Represents the assembly generator.

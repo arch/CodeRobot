@@ -2,7 +2,7 @@
 
 using System.Collections.Generic;
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     /// <summary>
     /// Represens the table model

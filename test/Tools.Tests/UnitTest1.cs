@@ -1,7 +1,7 @@
-using System;
+﻿using System;
 using Xunit;
 
-namespace CodeRobot.Tests
+namespace Tools.Tests
 {
     public class UnitTest1
     {

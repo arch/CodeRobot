@@ -1,9 +1,9 @@
 ﻿// Copyright (c) rigofunc (xuyingting). All rights reserved.
 
 using System.IO;
-using CodeRobot.Database.RevEng;
+using Tools.Database.RevEng;
 
-namespace CodeRobot.Generator
+namespace Tools.Generator
 {
     /// <summary>
     /// Provides some extensions for <see cref="ICodeGenerator"/> interfaces.

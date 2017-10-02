@@ -2,9 +2,9 @@
 
 using System.Collections.Generic;
 using Microsoft.CodeAnalysis;
-using CodeRobot.Database.RevEng;
+using Tools.Database.RevEng;
 
-namespace CodeRobot.Generator
+namespace Tools.Generator
 {
     /// <summary>
     /// Defines the interfaces for database reverse engineering code generator.

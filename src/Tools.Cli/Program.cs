@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeRobot.Cli
+namespace Tools.Cli
 {
     class Program
     {

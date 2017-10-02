@@ -4,7 +4,7 @@ using System.Collections.Generic;
 using System.Data;
 using System.Data.Common;
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     /// <summary>
     /// Represents the MySQL implementation of the <see cref="IDatabaseModelFactory"/> interface.

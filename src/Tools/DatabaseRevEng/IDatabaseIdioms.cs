@@ -1,6 +1,6 @@
 ﻿// Copyright (c) rigofunc (xuyingting). All rights reserved.
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     public interface IDatabaseIdioms
     {

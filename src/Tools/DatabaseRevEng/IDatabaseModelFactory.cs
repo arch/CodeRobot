@@ -2,7 +2,7 @@
 
 using System.Data.Common;
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     /// <summary>
     /// Defines the interfaces for <see cref="DatabaseModel"/> factory.

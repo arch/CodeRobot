@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace CodeRobot.Database.RevEng
+namespace Tools.Database.RevEng
 {
     internal static class MySqlTableSelectionSetExtensions
     {

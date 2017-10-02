@@ -2,7 +2,7 @@
 
 using Microsoft.CodeAnalysis.CSharp.Syntax;
 
-namespace CodeRobot.Generator
+namespace Tools.Generator
 {
     /// <summary>
     /// Defines the interfaces for converting SQL data type to <see cref="TypeSyntax"/>.

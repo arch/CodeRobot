@@ -8,7 +8,7 @@ using Microsoft.CodeAnalysis.CSharp.Syntax;
 using Microsoft.CodeAnalysis.Simplification;
 using static Microsoft.CodeAnalysis.CSharp.SyntaxFactory;
 
-namespace CodeRobot.Generator
+namespace Tools.Generator
 {
     /// <summary>
     /// Represents the default implementation of the <see cref="ITypeSyntaxProvider"/>, which work for MySQL.
